@@ -1,3 +1,5 @@
+[![Build Status](https://app.travis-ci.com/mscorpioni/lstm_arima_timeseries.svg?branch=main)](https://app.travis-ci.com/mscorpioni/lstm_arima_timeseries)
+
 Código-fonte do Artigo Científico realizado como trabalho de conclusão do curso de Pós-Graduação em Ciência de Dados e Inteligência Artificial pela PUCRS.
 
 **Título: Análise Comparativa entre Métodos Estatísticos e de Aprendizado Profundo para a Previsão de Séries Temporais.**
